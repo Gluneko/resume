@@ -175,6 +175,11 @@ span {
   text-align: center;
 }
 
+.propic {
+  float: left;
+  padding: 10px;
+  width: 300px;
+}
 /* Media queries to handle various device widths */
 
 @media only screen and (max-width: 1024px) {
